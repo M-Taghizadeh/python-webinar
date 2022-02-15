@@ -1,0 +1,7 @@
+Videos/
+docs/
+Tools/
+.env
+venv/
+.vscode/
+__pycache__/
